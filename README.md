@@ -1,8 +1,11 @@
-EDX nodejs course
-exercise CSV2JSON
+Microsoft: DEV283x
+EDX nodejs course 
+exercise/lab CSV2JSON
 
-I can log json Object but can't save to a file. Why?
+Initially I could log json Object but can't save to a file.
 
-Ok I  forgot JSON.stringify now its working ok. See csv2stringify2json.js
+So I saw edwincapel's code and everything become clear. 
 
-Tks to 'edwincapel' I saw his code and everything become clear. 
+Ok, I forgot JSON.stringify now its working ok. See csv2stringify2json.js
+
+Tks to 'edwincapel'
